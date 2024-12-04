@@ -1,0 +1,94 @@
+/* ==========================================================================
+   CUSTOM skin
+   ========================================================================== */
+
+$aggie-maroon: #500000;
+$sec-maroon: #3C0000;
+$sec-blue: #003C71;
+$sec-green: #5B6236;
+$sec-brown: #744F28;
+$accent-gold: #998542;
+$bg-gold: #D6D3C4;
+
+/* Colors */
+$background-color: #F8F8F8 !default;
+$text-color: #212121 !default;
+$muted-text-color: #363636 !default;
+$primary-color: $aggie-maroon !default;
+$primary-color-light: lighten($primary-color, 20) !default;
+$primary-color-dark: sec-maroon !default;
+$secondary-color: $accent-gold !default;
+$border-color: mix(#fff, #393e46, 75%) !default;
+$footer-background-color: $sec-maroon !default;
+$link-color: $sec-blue !default;
+$social-icon-color: $text-color !default;
+
+$button-color: $accent-gold !default;
+
+$masthead-link-color: $primary-color !default;
+$masthead-link-color-hover: $text-color !default;
+$masthead-logo-color: $text-color !default;
+$masthead-title-color: $text-color !default;
+
+$navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
+
+$teaser-border-radius: 8px !default;
+
+.icon-logo {
+   color: $text-color;
+   padding: 2px 2px;
+   text-align: center;
+   height: inherit;
+   }
+
+.page__footer {
+  color: #fff !important; // override
+}
+
+.page__footer-follow .social-icons .svg-inline--fa {
+  color: white;
+}
+
+.author__urls {
+  color: $sec-blue;
+}
+
+.author__urls-wrapper {
+  .social-icons {
+    .fa-twitter-square {
+      color: $social-icon-color;
+    }
+	.fa-github {
+      color: $social-icon-color;
+    }
+  .fa-envelope {
+      color: $social-icon-color;
+    }
+	.fa-map-marker-alt {
+      color: $social-icon-color;
+    }
+  .ai-google-scholar {
+      color: $social-icon-color;
+    }
+  }
+}
+
+h1 {
+  color: $primary-color;
+}
+
+h2 {
+  color: $text-color;
+}
+
+h3 {
+  color: $text-color;
+}
+
+.width-half {
+    width: 50%
+}
+
+.width-headshot {
+    width: 256px
+}

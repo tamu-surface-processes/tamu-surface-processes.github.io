@@ -1,0 +1,45 @@
+{% if include.id %}
+  {% assign feature_row = page[include.id] %}
+{% else %}
+  {% assign feature_row = page.feature_row %}
+{% endif %}
+
+{% assign num_research = site.research | size | minus: 1 %}
+
+
+<div class="research-feature__wrapper">
+  {% for i in (1..num_research) %}
+    {% assign proj = site.research[i] %}
+    {% if proj.is_featured %}
+      <div class="research-feature__item">
+        <div class="research__item">
+          {% if proj.img_featured %}
+            <div class="research__item-teaser">
+            {% if proj.url %}<a href="{{ proj.url | relative_url }}">{% endif %}
+              <img src="{{ proj.img_featured | relative_url }}"
+                   alt="{{ proj.title }} featured card">
+            </div>
+            {% if proj.url %}</a>{% endif %}
+          {% endif %}
+
+          <div class="research__item-body">
+            {% if proj.title %}
+              <h3 class="research__item-title">{{ proj.title }}</h3>
+            {% endif %}
+
+              {% if proj.excerpt %}
+                <div class="research__item-excerpt">
+                  {{ proj.excerpt | markdownify | strip_html | truncate: 250 }}
+                </div>
+              {% endif %}
+          </div>
+        </div>
+        <div class="research__item-footer">
+          {% if proj.url %}
+            <p><a href="{{ proj.url | relative_url }}"  class="btn btn--primary">Learn More</a></p>
+          {% endif %}
+        </div>
+      </div>
+    {% endif %}
+  {% endfor %}
+</div>

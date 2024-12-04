@@ -1,0 +1,154 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Texas A&M Surface Processes
+email: amoodie@tamu.edu
+description: >- # this means to ignore newlines until "baseurl:"
+  Quantitative surface processes and geomorphology
+  to enable sustainable landscapes.
+
+# twitter_username: MoodieStrat
+github_username: tamu-surface-processes
+minimal_mistakes_skin: tamu
+search: false
+
+# Build settings
+markdown: kramdown
+theme: minimal-mistakes-jekyll
+
+# paginate: 5 # amount of posts to show
+paginate_path: /news/page-:num/
+permalink: /news/:year/:month-:day-:year-:title/
+pagination:
+  enabled: true
+  debug: false
+  collection: 
+    - 'posts'
+  per_page: 8
+  permalink: '/page-:num/'
+  title: ':title'
+  sort_reverse: true
+blogurl: /news
+
+collections:
+  research:
+    output: true
+    order:
+      - intro.md
+
+
+include: ["_pages"]
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - package.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/bundler/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - 'Make*'
+  - '*sublime-*'
+  - .git
+  - "*.git"
+  - private/
+  - home-hero.html
+  - title.html
+  - nav-links.html
+  - flavor-sample-summary.html
+  - project-nav.html
+  - .sass-cache/
+  - private/
+  - assets/files/*.bib
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate-v2
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
+  - jekyll-scholar
+
+# author:
+#   name   : "Texas A&M Surface Processes"
+#   avatar : "assets/images/moodie_2022_tamu_lowres.jpg"
+#   bio    : >-
+#     Quantitative surface processes and geomorphology
+#     to enable sustainable landscapes.
+#   home   : "/"
+#   location: 
+#     - label: "Texas A&M University"
+#       url: "https://goo.gl/maps/gLVbTfA2rxjAzarX7"
+#   links:
+#     - label: "amoodie@tamu.edu"
+#       icon: "fas fa-fw fa-envelope"
+#       url: "mailto:amoodie@tamu.edu"
+#     - label: "tamu-surface-processes"
+#       icon: "fab fa-fw fa-github"
+#       url: "https://github.com/amoodie"
+#     - label: "scholar"
+#       icon: "ai ai-fw ai-google-scholar"
+#       url: "https://scholar.google.com/citations?user=8wtbbNsAAAAJ"
+
+scholar:
+  style: _includes/agu_modified.csl
+  source: assets/files
+  sort_by: year, month
+  order: descending
+  bibliography: group_publications.bib
+  bibliography_template: bib_template_md
+  bibtex_filters: 
+    - latex
+
+footer:
+  links:
+    - label: "amoodie@tamu.edu"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:amoodie@tamu.edu"
+    - label: "amoodie"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/tamu-surface-processes"
+    - label: "scholar"
+      icon: "ai ai-fw ai-google-scholar"
+      url: "https://scholar.google.com/citations?user=8wtbbNsAAAAJ"
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: true
+      share: false
+      related: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+  # _research
+  - scope:
+      path: "_research"
+      type: research
+    values:
+      layout: single
+      author_profile: true

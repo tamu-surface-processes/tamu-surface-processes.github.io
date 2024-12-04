@@ -1,0 +1,22 @@
+.bib__item {
+  color: $text-color;
+}
+
+.bibliography {
+	li {
+		color: $primary-color;
+		font-size: $type-size-6;
+
+		p {
+			margin: 0 0 1.0em
+		}
+
+		span {
+			color: $text-color;
+
+			a{
+				color: $muted-text-color;				
+			}
+		}
+	}
+}

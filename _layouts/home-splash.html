@@ -1,0 +1,15 @@
+---
+layout: splash
+---
+
+
+<hr>
+<div class="main-text">
+	{% capture my_include type="center" %}{% include home_content.md %}{% endcapture %}
+	{{ my_include | markdownify }}
+</div>
+<hr>
+
+<div style="height: 20px"></div>
+
+{% include feature_row.html %}

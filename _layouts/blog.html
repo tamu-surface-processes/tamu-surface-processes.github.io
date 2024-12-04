@@ -1,0 +1,47 @@
+---
+layout: single
+---
+
+{{ content }}
+
+<h2 class="archive__subtitle">Browse by topic:</h2>
+
+{% assign categories_max = 0 %}
+{% for category in site.categories %}
+  {% if category[1].size > categories_max %}
+    {% assign categories_max = category[1].size %}
+  {% endif %}
+{% endfor %}
+
+<ul class="taxonomy__index">
+  {% for i in (1..categories_max) reversed %}
+    {% for category in site.categories %}
+      {% if category[1].size == i %}
+        <li>
+          <a href="/blog/categories/#{{ category[0] | slugify }}">
+            {{ category[0] }}<span class="taxonomy__count">{{ i }}</span>
+          </a>
+        </li>
+      {% endif %}
+    {% endfor %}
+  {% endfor %}
+</ul>
+
+{% if paginator.page > 1 %}
+  {% assign page_num = page.title | split: " " | last %}
+  <h2 class="archive__subtitle">Browse posts from page {{ paginator.page }}:</h2>
+{% else %}
+  <h2 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Browse recent posts:" }}</h2>
+{% endif %}
+
+{% if paginator %}
+  {% assign posts = paginator.posts %}
+{% else %}
+  {% assign posts = site.posts %}
+{% endif %}
+
+{% for post in posts %}
+  {% include archive-single.html %}
+{% endfor %}
+
+{% include paginator.html %}
