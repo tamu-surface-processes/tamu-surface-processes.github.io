@@ -1,0 +1,15 @@
+main:
+  - title: "News"
+    url: /news/
+  - title: "People"
+    url: /people/    
+  - title: "Research"
+    url: /research/
+  - title: "Community"
+    url: /community/
+  - title: "Publications"
+    url: /publications/
+  - title: "Software"
+    url: /software/
+  - title: "Opportunities"
+    url: /opportunities/

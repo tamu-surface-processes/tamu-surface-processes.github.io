@@ -3,8 +3,6 @@ permalink: /publications/
 title: "Publications"
 ---
 
-<br />
-<a href="/assets/files/moodie_cv.pdf" class="btn btn--primary" target="_blank">A complete CV is available here</a>
 
 ## Manuscripts *in preparation* and *in review*
 

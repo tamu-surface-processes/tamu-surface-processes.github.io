@@ -1,11 +1,11 @@
 ---
-permalink: /mentoring/
-title: "Mentoring"
+permalink: /community/
+title: "Research group community"
 ---
 
 
 
-## Research group
+## Code of Conduct
 
 Every member of our research community deserves to be treated with respect.
 Moreover, every person brings value to our community and we are the most successful when we are diverse in experience and background.
@@ -18,7 +18,7 @@ In light of these important facts, our research group maintains a Code of Conduc
 
 
 
-## Individuals
+## Individualized Mentoring Plan
 
 I do not believe that there is any single mentoring approach that will work for all students.
 We all have individual needs, circumstances, preferences, and backgrounds that must be learned to make a Mentor--Mentee relationship successful.
