@@ -89,7 +89,7 @@ scholar:
   order: descending
   bibliography: group_publications.bib
   bibliography_template: bib_template_md
-  bibtex_filters: 
+  bibtex_filters:
     - latex
 
 footer:
@@ -100,7 +100,7 @@ footer:
     - label: "Department of Geography"
       icon: "fab fa-fw fa-envelope"
       url: "https://artsci.tamu.edu/geography/index.html"
-    
+
 defaults:
   # _posts
   - scope:

@@ -2,6 +2,10 @@
    CUSTOM skin
    ========================================================================== */
 
+/* Fonts */
+
+
+/* Colors */
 $aggie-maroon: #500000;
 $sec-maroon: #3C0000;
 $sec-blue: #003C71;
@@ -10,7 +14,6 @@ $sec-brown: #744F28;
 $accent-gold: #998542;
 $bg-gold: #D6D3C4;
 
-/* Colors */
 $background-color: #F8F8F8 !default;
 $text-color: #212121 !default;
 $muted-text-color: #363636 !default;
@@ -27,8 +30,8 @@ $button-color: $accent-gold !default;
 
 $masthead-link-color: $primary-color !default;
 $masthead-link-color-hover: $text-color !default;
-$masthead-logo-color: $text-color !default;
-$masthead-title-color: $text-color !default;
+$masthead-logo-color: $primary-color !default;
+$masthead-title-color: $primary-color !default;
 
 $navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
 

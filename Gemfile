@@ -5,7 +5,7 @@ source "https://rubygems.org"
 gem "minimal-mistakes-jekyll"
 
 gem "tzinfo-data"
-gem "wdm", "~> 0.1.1" if Gem.win_platform?
+# gem "wdm", "~> 0.1.1" if Gem.win_platform?
 
 gem 'html-proofer'
 
