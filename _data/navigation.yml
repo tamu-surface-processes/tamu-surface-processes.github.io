@@ -5,11 +5,11 @@ main:
     url: /people/    
   - title: "Research"
     url: /research/
-  - title: "Community"
-    url: /community/
   - title: "Publications"
     url: /publications/
   - title: "Software"
     url: /software/
+  - title: "Community"
+    url: /community/
   - title: "Opportunities"
     url: /opportunities/
