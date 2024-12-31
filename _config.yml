@@ -16,8 +16,7 @@
 title: Texas A&M Surface Processes
 email: amoodie@tamu.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Quantitative surface processes and geomorphology
-  to enable sustainable landscapes.
+  Surface processes and geomorphology
 
 # twitter_username: MoodieStrat
 github_username: tamu-surface-processes
@@ -83,27 +82,6 @@ plugins:
   - jekyll-include-cache
   - jekyll-scholar
 
-# author:
-#   name   : "Texas A&M Surface Processes"
-#   avatar : "assets/images/moodie_2022_tamu_lowres.jpg"
-#   bio    : >-
-#     Quantitative surface processes and geomorphology
-#     to enable sustainable landscapes.
-#   home   : "/"
-#   location: 
-#     - label: "Texas A&M University"
-#       url: "https://goo.gl/maps/gLVbTfA2rxjAzarX7"
-#   links:
-#     - label: "amoodie@tamu.edu"
-#       icon: "fas fa-fw fa-envelope"
-#       url: "mailto:amoodie@tamu.edu"
-#     - label: "tamu-surface-processes"
-#       icon: "fab fa-fw fa-github"
-#       url: "https://github.com/amoodie"
-#     - label: "scholar"
-#       icon: "ai ai-fw ai-google-scholar"
-#       url: "https://scholar.google.com/citations?user=8wtbbNsAAAAJ"
-
 scholar:
   style: _includes/agu_modified.csl
   source: assets/files
@@ -119,13 +97,10 @@ footer:
     - label: "amoodie@tamu.edu"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:amoodie@tamu.edu"
-    - label: "amoodie"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/tamu-surface-processes"
-    - label: "scholar"
-      icon: "ai ai-fw ai-google-scholar"
-      url: "https://scholar.google.com/citations?user=8wtbbNsAAAAJ"
-
+    - label: "Department of Geography"
+      icon: "fab fa-fw fa-envelope"
+      url: "https://artsci.tamu.edu/geography/index.html"
+    
 defaults:
   # _posts
   - scope:
