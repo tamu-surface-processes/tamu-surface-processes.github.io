@@ -14,8 +14,8 @@ excerpt: >-
 
 ### Group publications in this theme
 
-1. {% reference moodie_fluvial_nodate --file CV_biblist %}
-1. {% reference limaye_effect_2023 --file CV_biblist %}
-1. {% reference wu_pacearticle_2023 --file CV_biblist %}
+1. {% reference moodie_fluvial_nodate --file group_publications %}
+1. {% reference limaye_effect_2023 --file group_publications %}
+1. {% reference wu_pacearticle_2023 --file group_publications %}
 
 

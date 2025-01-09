@@ -22,8 +22,8 @@ We have used field observation, theory, numerical modeling, and laboratory exper
 
 ### Group publications in this theme
 
-1. {% reference moodie_suspended-sediment_2021 --file CV_biblist %}
-1. {% reference ma_universal_2020 --file CV_biblist %}
-1. {% reference deLeeuw_entrainment_2020 --file CV_biblist %}
-1. {% reference lamb_flocs_2020 --file CV_biblist %}
-1. {% reference ma_exceptional_2017 --file CV_biblist %}
+1. {% reference moodie_suspended-sediment_2021 --file group_publications %}
+1. {% reference ma_universal_2020 --file group_publications %}
+1. {% reference deLeeuw_entrainment_2020 --file group_publications %}
+1. {% reference lamb_flocs_2020 --file group_publications %}
+1. {% reference ma_exceptional_2017 --file group_publications %}

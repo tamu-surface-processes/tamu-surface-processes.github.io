@@ -24,9 +24,9 @@ We aim to understand the dynamics of delta land building.
 
 ### Group publications in this theme
 
-1. {% reference hariharan_modeling_2022 --file CV_biblist %}
-1. {% reference moodie_faulting_2021 --file CV_biblist %}
-1. {% reference carlson_infilling_2020 --file CV_biblist %}
-1. {% reference moodie_modeling_2019 --file CV_biblist %}
-1. {% reference chadwick_origin_2019 --file CV_biblist %}
+1. {% reference hariharan_modeling_2022 --file group_publications %}
+1. {% reference moodie_faulting_2021 --file group_publications %}
+1. {% reference carlson_infilling_2020 --file group_publications %}
+1. {% reference moodie_modeling_2019 --file group_publications %}
+1. {% reference chadwick_origin_2019 --file group_publications %}
 

@@ -40,9 +40,9 @@ We have developed a framework that examines factors impacting delta diversion ef
 
 ### Group publications in this theme
 
-1. {% reference hariharan_impacts_2023 --file CV_biblist %}
-1. {% reference passalacqua_systemscale_2022 --file CV_biblist %}
-1. {% reference carlson_effects_2021 --file CV_biblist %}
-1. {% reference moodie_optimized_2021 --file CV_biblist %}
+1. {% reference hariharan_impacts_2023 --file group_publications %}
+1. {% reference passalacqua_systemscale_2022 --file group_publications %}
+1. {% reference carlson_effects_2021 --file group_publications %}
+1. {% reference moodie_optimized_2021 --file group_publications %}
 
 
