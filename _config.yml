@@ -95,11 +95,14 @@ scholar:
 footer:
   links:
     - label: "amoodie@tamu.edu"
-      icon: "fas fa-fw fa-envelope"
+      icon: "fas fa-solid fa-envelope"
       url: "mailto:amoodie@tamu.edu"
     - label: "Department of Geography"
-      icon: "fab fa-fw fa-envelope"
+      icon: "fas fa-solid fa-book"
       url: "https://artsci.tamu.edu/geography/index.html"
+    - label: "Texas A&M University"
+      icon: "fas fa-solid fa-landmark"
+      url: "https://tamu.edu"
 
 defaults:
   # _posts
