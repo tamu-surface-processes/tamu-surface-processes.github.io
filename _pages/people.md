@@ -19,8 +19,10 @@ Dr. Andrew J. Moodie\
 
 
 ## Graduate students
-Zhilin Shi
 
+![alt](/assets/images/people_images/bio-photo_zs.jpg){: width="250"}
+Zhilin Shi
+[Personal Website](https://zshi1026.github.io/)
 
 
 
