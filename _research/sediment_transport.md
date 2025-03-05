@@ -14,8 +14,8 @@ This is because sediment transport makes the physical link between fluid flow an
 Our research in this theme is broadly defined by an interest to understand the interactions between moving fluids and sediments.
 We have used field observation, theory, numerical modeling, and laboratory experiments to  advance the science of sediment transport.
 
-<figure style="width: 35%" class="float-left">
-  <img src="/assets/images/2018/12/den_strat_demo-624x808.png" alt="density stratification documented in the Yellow River.">
+<figure style="width: 35%;padding-right:20px" class="float-left">
+  <img src="/assets/images/research_images/den_strat_demo.png" alt="density stratification documented in the Yellow River.">
   <figcaption>Figure 1: Mean signed deviation, calculated as difference between predicted Rouse profiles and best-fit Rouse profiles demonstrates a progressive increase in offset with increasing shear stress. This is interpreted as an increase in the effect of the density stratification due to increased concentrations with the increased stresses. All measurements collected from Yellow River, China, near Kenli.</figcaption>
 </figure> 
 
