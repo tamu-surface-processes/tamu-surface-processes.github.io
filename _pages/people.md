@@ -20,8 +20,26 @@ Dr. Andrew J. Moodie\
 
 ## Graduate students
 
+![alt](/assets/images/people_images/EL_ProfilePhoto.jpg){: width="250"}
+Elena Lundeen
+River-floodplain connectivity
 
+Zhilin Shi
+Modeling delta compaction
 
+![alt](/assets/images/people_images/LT_ProfilePhoto.jpg){: width="250"}
+Lena Timko
+Modeling alluvial fans 
+
+## Undergraduate Students 
+
+![alt](/assets/images/people_images/MA_ProfilePhoto.jpg){: width="250"}
+Marcos Alvarez
+Burn intensity over a landscape
+
+![alt](/assets/images/people_images/BC_ProfilePhoto.jpg){: width="250"}
+Benjamin Cordova
+Post-fire geomorphic impacts
 
 
 <!-- ## Former members -->
