@@ -4,7 +4,7 @@ layout: research-project
 is_featured: true
 img_featured: /assets/images/research_images/
 excerpt: >-
-  A brief excerpt.
+  How do fluvial geomorphic processes shape river landscapes?
 ---
 
 
@@ -12,16 +12,16 @@ excerpt: >-
 
 Rivers and their floodplains are highly dynamic systems that provide many valuable ecosystem services including diverse habitat, flood attenuation, and water filtration. 
 Fluvial geomorphology studies landforms development and evolution in riverine environments. 
-Frequent disturbance in these environments, from hydrologic events or other external forces, forms heterogeneous topography within the river corridor, influencing the dispersal of water and nutrients throughout the river-floodplain system and contributing to the development of diverse ecosystems.
-   
-Understanding the geomorphic processes at work within a riverscape provides insight into the mechanisms that drive landscape change, providing deeper comprehension about some of the most valuable ecosystems on the planet. For instance, findings from geomorphology research can be applied to restoration efforts and guide activities aiming to improve degraded fluvial environments. 
+Frequent disturbance in these environments, from hydrologic events or other external forces, forms heterogeneous topography within the river corridor, influencing the dispersal of water and nutrients throughout the river-floodplain system and contributing to the development of diverse ecosystems.   
 
-Currently, in the Surface Processes Group, research related to fluvial geomorphology focuses on modeling and quantifying surface water connectivity in river and delta environments. 
+Understanding the geomorphic processes at work within a riverscape provides insight into the mechanisms that drive landscape change, providing deeper comprehension about some of the most valuable ecosystems on the planet. 
+For instance, findings from geomorphology research can be applied to restoration efforts and guide activities aiming to improve degraded fluvial environments. 
+
+Current fluvial geomorphology research in the Surface Processes Group focuses on modeling and quantifying surface water connectivity in river and delta environments. 
 These efforts utilize a combination of numerical modeling and field observations to study processes governing the exchange of water and material between rivers and floodplains. 
 
-
 <figure style="width: 35%" class="float-left">
-  <img src="/assets/images/reserach_images/Connectivity_model_figure.png" alt="Modeled floodplain material transport pathways.">
+  <img src="/assets/images/research_images/Connectivity_model_figure.png" alt="Modeled floodplain material transport pathways.">
   <figcaption>Figure 1: Material transport pathways within a floodplain region of the Mission River, TX from hydrodynamic and particle tracing models. </figcaption>
 </figure> 
 
