@@ -20,26 +20,46 @@ Dr. Andrew J. Moodie\
 
 ## Graduate students
 
-![alt](/assets/images/people_images/EL_ProfilePhoto.jpg){: width="250"}
-Elena Lundeen
+![alt](/assets/images/people_images/EL_ProfilePhoto.jpg){: width="250" .center-cropped {width: 100px;
+  height: 100px;
+  background-position: center center;
+  background-repeat: no-repeat;}
+
+Elena Lundeen\
 River-floodplain connectivity
 
-Zhilin Shi
+Zhilin Shi\
 Modeling delta compaction
 
-![alt](/assets/images/people_images/LT_ProfilePhoto.jpg){: width="250"}
-Lena Timko
-Modeling alluvial fans 
+
+![alt](/assets/images/people_images/LT_ProfilePhoto.jpg){: width="250" .center-cropped {width: 100px;
+  height: 100px;
+  background-position: center center;
+  background-repeat: no-repeat;}
+
+Lena Timko\
+Modeling alluvial fans
+
 
 ## Undergraduate Students 
 
-![alt](/assets/images/people_images/MA_ProfilePhoto.jpg){: width="250"}
-Marcos Alvarez
+![alt](/assets/images/people_images/MA_ProfilePhoto.jpg){: width="250" .center-cropped {width: 100px;
+  height: 100px;
+  background-position: center center;
+  background-repeat: no-repeat;}
+
+Marcos Alvarez\
 Burn intensity over a landscape
 
-![alt](/assets/images/people_images/BC_ProfilePhoto.jpg){: width="250"}
-Benjamin Cordova
+
+![alt](/assets/images/people_images/BC_ProfilePhoto.jpg){: width="250" .center-cropped {width: 100px;
+  height: 100px;
+  background-position: center center;
+  background-repeat: no-repeat;}
+
+Benjamin Cordova\
 Post-fire geomorphic impacts
+
 
 
 <!-- ## Former members -->
