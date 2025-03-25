@@ -15,6 +15,7 @@ excerpt: >-
 </figure> 
 
 
+
 Our research on Mars is motivated by 1) a desire to test our understanding of  sedimentological and geomorphological processes under varied environmental conditions, and 2) to constrain the past and present potential habitability of the planet.
 In most projects, we test hypotheses about Mars' surface with  remote sensing observations and numerical simulation results.  
 In the past, we have investigated the origin of the Hypanis Fan system and tested ideas about size-dependent crater preservation bias in fluvial stratigraphy. 
