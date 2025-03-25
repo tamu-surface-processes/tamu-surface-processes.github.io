@@ -19,7 +19,11 @@ Dr. Andrew J. Moodie\
 
 
 ## Graduate students
+![alt](/assets/images/people_images/bio-photo_zs.jpg){: width="250"}
 
+Zhilin Shi\
+B.A. in Geology, Colorado College (2023)\
+[Personal Website](https://zshi1026.github.io/)
 
 
 
