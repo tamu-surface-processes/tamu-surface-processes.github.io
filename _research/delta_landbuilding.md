@@ -8,8 +8,15 @@ excerpt: >-
   Natural delta land building processes are not fully understood. Predicting the dynamics of these landscapes supports societal sustainability on deltas.
 ---
 
+River Deltas are predominantly coastal landforms that extend outward into the ocean.
+Over the past decades, they have experienced significant land loss due to anthropogenic activities such as subsurface fluid withdrawl and flood control structures.
+Coupled with climate warming, reduced sediment supply, and land subsidence, the rate of land loss is expected to accelerate in the future. 
+To counteract the ongoing degradation of wetlands, sediment diversions--engineered channels designed to transport sediment-rich water to nourish inactive wetland--have gained popularity. 
+This nature-based solution aims to replicate natural delt-building processes;however, significant uncertainties remain due to gaps in our understanding of lanb-building mechanisms.
+Under this theme, our research seeks to use process-based dynamics to unravel the fundamental mechanisms governing delta land-building processes.
+The knowledge learned from these research will provide us with insights for assessing wetland formation and long-term land sustainability.
 
-We aim to understand the dynamics of delta land building. 
+
 
 
 
