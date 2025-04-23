@@ -32,6 +32,7 @@ undergraduatestudents:
 
 
 <!-- Note, the css that controls the display of the headshots is in _home.scss -->
+<!-- Code here and in the css is based on: https://dmnfarrell.github.io/software/jekyll-galleries -->
 
 ## Faculty
 
