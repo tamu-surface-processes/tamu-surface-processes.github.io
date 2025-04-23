@@ -17,6 +17,7 @@ graduatestudents:
     name: Zhilin Shi
     img: /assets/images/people_images/bio-photo_zs.jpg
     topic: Delta compaction dynamics
+    site: https://zshi1026.github.io/
 
 undergraduatestudents:
   almanza:
@@ -49,7 +50,13 @@ undergraduatestudents:
   <div class="box">
       <img src="{{ person[1]['img'] }}{{ name }} " alt="{{ name }}"  class="img-gallery" />
     <b>{{ person[1]['name'] }}</b><br>
-    <i>{{ person[1]['topic'] }}</i>
+    <i>{{ person[1]['topic'] }}</i><br>
+    {% if person[1]['scholar'] %}
+      <a href="{{ person[1]['scholar'] }}">Google Scholar</a><br>
+    {% endif %}
+    {% if person[1]['site'] %}
+      <a href="{{ person[1]['site'] }}">Personal Website</a>
+    {% endif %}
   </div>
 {% endfor %}
 </div>
@@ -64,7 +71,13 @@ undergraduatestudents:
   <div class="box">
       <img src="{{ person[1]['img'] }}{{ name }} " alt="{{ name }}"  class="img-gallery" />
     <b>{{ person[1]['name'] }}</b><br>
-    <i>{{ person[1]['topic'] }}</i>
+    <i>{{ person[1]['topic'] }}</i><br>
+    {% if person[1]['scholar'] %}
+      <a href="{{ person[1]['scholar'] }}">Google Scholar</a><br>
+    {% endif %}
+    {% if person[1]['site'] %}
+      <a href="{{ person[1]['site'] }}">Personal Website</a>
+    {% endif %}
   </div>
 {% endfor %}
 </div>
@@ -79,7 +92,13 @@ undergraduatestudents:
   <div class="box">
       <img src="{{ person[1]['img'] }}{{ name }} " alt="{{ name }}"  class="img-gallery" />
     <b>{{ person[1]['name'] }}</b><br>
-    <i>{{ person[1]['topic'] }}</i>
+    <i>{{ person[1]['topic'] }}</i><br>
+    {% if person[1]['scholar'] %}
+      <a href="{{ person[1]['scholar'] }}">Google Scholar</a><br>
+    {% endif %}
+    {% if person[1]['site'] %}
+      <a href="{{ person[1]['site'] }}">Personal Website</a>
+    {% endif %}
   </div>
 {% endfor %}
 </div>
