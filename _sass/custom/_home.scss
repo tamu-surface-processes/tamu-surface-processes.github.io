@@ -2,6 +2,43 @@
     width: 50%
 }
 
+.center-cropped {
+  object-position: center; /* Center the image within the element */
+  object-fit: cover;
+  height: 200px;
+  width: 200px;
+}
+
+
+/*! gallery div style */
+.image-gallery {
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(auto-fill,minmax(250px, 1fr));
+  justify-content: center;
+  padding: 4px;
+  }
+
+
+  .box {
+    flex-basis: 25%;
+    width: 100%;
+    padding: 10px;
+    margin: 2px;
+  }
+
+  .img-gallery {
+    width: 200%;
+    height: 250px;
+    object-fit: cover;
+    transform: scale(1);
+    transition: all 0.3s ease-in-out;
+    /*&:hover {
+      transform: scale(1.05);
+    }*/
+}
+
+
 .modify-headshot {
   width: 240px;
   height: auto;
