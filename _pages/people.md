@@ -5,10 +5,6 @@ title: "People"
 postdocs:
 
 graduatestudents:
-  lundeen:
-    name: Elena Lundeen
-    img: /assets/images/people_images/EL_ProfilePhoto.jpg
-    topic: River-floodplain connectivity 
   timko:
     name: Lena Timko
     img: /assets/images/people_images/LT_ProfilePhoto.jpg
@@ -24,10 +20,20 @@ undergraduatestudents:
     name: Marcos Almanza
     img: /assets/images/people_images/MA_ProfilePhoto.jpg
     topic: Mapping grassland burn severity
-  cordova:
-    name: Benjamin Cordova
-    topic: Post-fire material movement
-    img: /assets/images/people_images/BC_ProfilePhoto.jpg
+
+# keep these in reverse-chronological order
+formerstudents:
+    lundeen:
+      name: Elena Lundeen
+      img: /assets/images/people_images/EL_ProfilePhoto.jpg
+      topic: River-floodplain connectivity 
+      degree: 2025, MS in Water Management and Hydrological Sciences
+      aftergraduation: Fluvial Ecosystem Restoration group at Freese and Nichols
+    cordova:
+      name: Benjamin Cordova
+      topic: Post-fire material movement
+      img: /assets/images/people_images/BC_ProfilePhoto.jpg
+      degree: 2025, BS in Geography
 ---
 
 
@@ -107,3 +113,20 @@ undergraduatestudents:
 
 ## Former members
 <!-- None yet. Will be a table of name, position, dates, and "now at" -->
+
+{% assign formerstudents = page.formerstudents %}
+<div class ="image-gallery">
+{% for person in formerstudents %}
+  <div class="box">
+      <img src="{{ person[1]['img'] }}{{ name }} " alt="{{ name }}"  class="img-gallery" />
+    <b>{{ person[1]['name'] }}</b><br>
+    <i>{{ person[1]['topic'] }}</i><br>
+    <ul>
+      <li>{{ person[1]['degree'] }}</li>
+      {% if person[1]['aftergraduation'] %}
+        <li>After graduation: {{ person[1]['aftergraduation'] }}</li>
+      {% endif %}
+    </ul>
+  </div>
+{% endfor %}
+</div>
