@@ -2,7 +2,7 @@
 title: Fluvial geomorphology and dynamics
 layout: research-project
 is_featured: true
-img_featured: /assets/images/research_images/
+img_featured: /assets/images/research_images/Connectivity_model_figure.png
 excerpt: >-
   How do fluvial geomorphic processes shape river landscapes?
 ---
