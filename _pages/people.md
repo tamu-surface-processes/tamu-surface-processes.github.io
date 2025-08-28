@@ -14,6 +14,11 @@ graduatestudents:
     img: /assets/images/people_images/bio-photo_zs.jpg
     topic: Delta compaction dynamics
     site: https://zshi1026.github.io/
+  ujan:
+    name: Ujan Dey
+    img:  /assets/images/people_images/UD_Profile_Photo.jpg
+    topic: River delta modelling
+
 
 undergraduatestudents:
   almanza:
