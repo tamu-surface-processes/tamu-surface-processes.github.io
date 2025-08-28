@@ -16,7 +16,7 @@ graduatestudents:
     site: https://zshi1026.github.io/
   ujan:
     name: Ujan Dey
-    img:  /assets/images/people_images/UD_Profile_Photo.jpg
+    img:  /assets/images/people_images/UD_Profile_Photo.JPG
     topic: River delta modelling
 
 
