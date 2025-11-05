@@ -6,8 +6,23 @@ title: "Opportunities"
 
 ## Postdoc Opportunities
 
-**We do not have any internally-funded Postdoc Opportunities available at this time.**
-{: .notice--danger}
+### Internal
+
+<!-- **We do not have any internally-funded Postdoc Opportunities available at this time.** -->
+<!-- {: .notice--danger} -->
+
+We are recruiting for a postdoc to join a team working to integrate anthropogenic delta management into numerical landscape evolution models. The candidate will preferably have expertise in landscape evolution modeling, geomorphology, and/or human-natural system interactions.
+
+The NSF-funded research also includes Dr. Moira Zellner at Northeastern University, who leads engagement with stakeholders in coastal Louisiana.
+
+Drs. Passalacqua and Moodie will supervise the Postdoctoral Scholar. The postdoc can be based in Austin, Texas or College Station, Texas. The postdoc will receive research and travel support to complete the research objectives, attend conferences, and visit among the participating institutions. The position is available to start immediately, and is for one year with renewal for a second year. 
+
+To apply, please submit a cover letter outlining relevant experience and interest, a CV, and contact information for three professional references. [Please submit copies of these materials online via Workday](https://utaustin.wd1.myworkdayjobs.com/en-US/UTstaff/job/Postdoctoral-Fellow_R_00042665). Please see Workday job posting for complete information, and reach out to Andrew Moodie (amoodie@tamu.edu) with any additional questions.
+
+[https://utaustin.wd1.myworkdayjobs.com/en-US/UTstaff/job/Postdoctoral-Fellow_R_00042665](https://utaustin.wd1.myworkdayjobs.com/en-US/UTstaff/job/Postdoctoral-Fellow_R_00042665)
+
+
+### Fellowships
 
 I am open to supporting applications to a Postdoc Fellowship for external funding, for applicants who are interested in topics relevant to our group.
 If you are writing a Postdoc Fellowship proposal and would like to collaborate, please reach out to <a href="mailto:amoodie@tamu.edu">Andrew Moodie</a> by email that includes the following items:
