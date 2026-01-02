@@ -4,6 +4,6 @@ date: 2024-12-01
 layout: single
 ---
 
-explanation needed.
+The lab gets a website!
 
 --------------------
