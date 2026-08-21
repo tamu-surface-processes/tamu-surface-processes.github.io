@@ -8,7 +8,7 @@ title: "Opportunities"
 
 ### Internal
 
-<!-- **We do not have any internally-funded Postdoc Opportunities available at this time.** -->
+**We do not have any internally-funded Postdoc Opportunities available at this time.**
 {: .notice--danger}
 
 ### Fellowships
