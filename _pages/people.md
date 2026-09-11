@@ -5,29 +5,45 @@ title: "People"
 postdocs:
 
 graduatestudents:
-  timko:
-    name: Lena Timko
-    img: /assets/images/people_images/LT_ProfilePhoto.jpg
-    topic: Alluvial fan interaction
-  zhi:
-    name: Zhilin Shi
-    img: /assets/images/people_images/bio-photo_zs.jpg
-    topic: Delta compaction dynamics
-    site: https://zshi1026.github.io/
+  gabby:
+    name: Gabby Hamill
+    img: /assets/images/people_images/GH_ProfilePhoto.jpg
+    topic: Pit avulsions and channel dynamics
+  daniel:
+    name: Daniel Alvarez
+    img: /assets/images/people_images/DA_ProfilePhoto.jpg
+    topic: River morphodynamics, Sedimentary processes, Environmental fluid dynamics 
   ujan:
     name: Ujan Dey
-    img:  /assets/images/people_images/UD_Profile_Photo.JPG
-    topic: River delta modelling
+    img: /assets/images/people_images/UD_Profile_Photo.JPG
+    topic: Sea level fall in lacustrine deltas
 
 
 undergraduatestudents:
-  almanza:
-    name: Marcos Almanza
-    img: /assets/images/people_images/MA_ProfilePhoto.jpg
-    topic: Mapping grassland burn severity
+  remy:
+    name: Remy Rauch
+    img: /assets/images/people_images/RR_ProfilePhoto.jpg
+    topic: Analyzing sand-pit avulsions through remote sensing 
 
 # keep these in reverse-chronological order
 formerstudents:
+    
+    zhi:
+      name: Zhilin Shi
+      img: /assets/images/people_images/bio-photo_zs.jpg
+      topic: Delta compaction dynamics
+      site: https://zshi1026.github.io/
+      degree: 2026, MS in Geography
+    timko:
+      name: Lena Timko
+      img: /assets/images/people_images/LT_ProfilePhoto.jpg
+      topic: Alluvial fan interaction
+      degree: 2026, MS in Geography
+    almanza:
+      name: Marcos Almanza
+      img: /assets/images/people_images/MA_ProfilePhoto.jpg
+      topic: Mapping grassland burn severity
+      degree: 2026, BS in Environmental Studies   
     lundeen:
       name: Elena Lundeen
       img: /assets/images/people_images/EL_ProfilePhoto.jpg
