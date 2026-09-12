@@ -35,6 +35,7 @@ formerstudents:
       topic: Delta compaction dynamics
       site: https://zshi1026.github.io/
       degree: 2026, MS in Geography
+      aftergraduation: PhD student at the Indiana University Bloomington
     timko:
       name: Lena Timko
       img: /assets/images/people_images/LT_ProfilePhoto.jpg
