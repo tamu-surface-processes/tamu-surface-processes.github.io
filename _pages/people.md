@@ -17,6 +17,7 @@ graduatestudents:
     name: Ujan Dey
     img: /assets/images/people_images/UD_Profile_Photo.JPG
     topic: Sea level fall in lacustrine deltas
+    site: https://sites.google.com/tamu.edu/ujandey/home 
 
 
 undergraduatestudents:
